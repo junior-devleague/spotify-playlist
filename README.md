@@ -60,12 +60,12 @@ Create a link tag for your CSS stylesheet in your HTML document.
   - `text-align`
   - `width`
 
-<p align="center">
-<img src="https://github.com/junior-devleague/spotify-playlist/blob/master/images/stretch-goals.png"></img>
-</p>
-
 *Stretch Goals:*
-  - Attempt to format your playlist like the picture above
   - Add the green "SHUFFLE PLAY" button at the top
   - Add a cover picture for your playlist
   - Play music when clicking on that song
+  - *Attempt to format your playlist like the picture below*
+  
+<p align="center">
+<img src="https://github.com/junior-devleague/spotify-playlist/blob/master/images/stretch-goals.png"></img>
+</p>
