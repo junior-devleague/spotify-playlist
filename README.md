@@ -1,6 +1,7 @@
 #Welcome To Spotify!
 You will be recreating your own Spotify playlist that includes all your favorite songs!
 
+**Here's an example:**
 <p align="center">
 <img src="https://github.com/junior-devleague/spotify-playlist/blob/master/images/regular.png" style="width: 100px;"></img>
 </p>
