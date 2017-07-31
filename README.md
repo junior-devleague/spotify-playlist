@@ -61,7 +61,7 @@ Create a link tag for your CSS stylesheet in your HTML document.
   - `width`
 
 <p align="center">
-<img src="images/stretch-goals"></img>
+<img src="https://github.com/junior-devleague/spotify-playlist/blob/master/images/stretch-goals.png"></img>
 </p>
 
 *Stretch Goals:*
