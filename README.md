@@ -2,7 +2,7 @@
 You will be recreating your own Spotify playlist that includes all your favorite songs!
 
 <p align="center">
-<img src="https://github.com/junior-devleague/spotify-playlist/blob/master/images/regular.png"></img>
+<img src="https://github.com/junior-devleague/spotify-playlist/blob/master/images/regular.png" style="width: 100px;"></img>
 </p>
 
 ##Before you begin
