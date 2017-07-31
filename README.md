@@ -65,7 +65,7 @@ Create a link tag for your CSS stylesheet in your HTML document.
 </p>
 
 *Stretch Goals:*
-  - Attempt to lay out your playlist like the picture above
+  - Attempt to format your playlist like the picture above
   - Add the green "SHUFFLE PLAY" button at the top
   - Add a cover picture for your playlist
   - Play music when clicking on that song
