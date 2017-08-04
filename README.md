@@ -1,15 +1,10 @@
 # Welcome To Spotify!
 You will be recreating your own Spotify playlist that includes all your favorite songs!
 
-**Here's an example:**
-<p align="center">
-<img src="https://github.com/junior-devleague/spotify-playlist/blob/master/images/regular.png"></img>
-</p>
-
 ## Before you begin
+- Please whiteboard or draw your playlist out for an instructor to approve :)
 - Pick five or more songs to include in your playlist
 - Find **online** album cover art for the songs you picked
-- Please create a mockup of your playlist for an instructor to approve :)
 
 ## Set-up your files
 Please create the following files:
@@ -18,6 +13,11 @@ Please create the following files:
 - README.md
 
 Create a link tag for your CSS stylesheet in your HTML document.
+
+**Here's an example:**
+<p align="center">
+<img src="https://github.com/junior-devleague/spotify-playlist/blob/master/images/regular.png"></img>
+</p>
 
 ## HTML
 1. Create a header containing the name of your playlist using a **header** tag, adding an id attribute with the value of `playlist-name`.
