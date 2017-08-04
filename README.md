@@ -13,6 +13,7 @@ Please create the following files:
 - README.md
 
 Create a link tag for your CSS stylesheet in your HTML document.
+**Conduct a Sanity Check for your CSS and have it approved by an instructor before moving on**
 
 **Here's an example:**
 <p align="center">
